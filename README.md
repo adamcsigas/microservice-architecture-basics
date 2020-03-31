@@ -7,9 +7,11 @@ I have made this repo to put all my questions answers, pros and cons, etc. about
 [Effective microservices : 10 best practices](https://towardsdatascience.com/effective-microservices-10-best-practices-c6e4ba0c6ee2) (article published on: Nov 23, 2019)
 
 # Videos about Microservice Architecture
-[10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+[10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ) (upload date : 30 Aug, 2017) !!! Very sarcastic approach !!!
+[Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 
 ## Frequently seen acronyms
 - SPA - Single Page Application
 - USP - Unique Selling Proposion
+- SOAP - Single Object Access Protocol
 
