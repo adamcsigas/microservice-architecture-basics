@@ -12,6 +12,7 @@ I have made this repo to put all my questions answers, pros and cons, etc. about
 [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8) (upload date : 6 Apr 2017)
 
 ## Books
+Gregor Hophe - Enterprise Integration Patterns (It's mainly about messaging patterns)
 Sam Newman - Building microservices : building Fine-Grained systems
 
 ## Frequently seen acronyms
