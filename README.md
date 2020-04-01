@@ -11,8 +11,12 @@ I have made this repo to put all my questions answers, pros and cons, etc. about
 
 [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8) (upload date : 6 Apr 2017)
 
+## Books
+Sam Newman - Building microservices : building Fine-Grained systems
+
 ## Frequently seen acronyms
 - SPA - Single Page Application
 - USP - Unique Selling Proposion
 - SOAP - Single Object Access Protocol
 - SLA - Service Level Commitment
+- SDI - Service Dependency Inversion
