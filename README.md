@@ -13,6 +13,7 @@ I have made this repo to put all my questions answers, pros and cons, etc. about
 
 ## Books
 Gregor Hophe - Enterprise Integration Patterns (It's mainly about messaging patterns)
+
 Sam Newman - Building microservices : building Fine-Grained systems
 
 ## Frequently seen acronyms
