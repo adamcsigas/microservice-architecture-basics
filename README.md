@@ -16,9 +16,9 @@ I have made this repo to put all my questions answers, pros and cons, etc. about
 [Michael Geers - Micro Frontends - The Nitty Gritty Details or Frontend, Backend, 🌈 Happyend](https://www.youtube.com/watch?v=wCHYILvM7kU) (upload date: 26 May, 2019)
 
 ## Books
-Gregor Hophe - Enterprise Integration Patterns (It's mainly about messaging patterns)
+Gregor Hophe - Enterprise Integration Patterns (It's mainly about messaging patterns) (didn't read yet.)
 
-Sam Newman - Building microservices : building Fine-Grained systems
+Sam Newman - Building microservices : building Fine-Grained systems (didn't read yet.)
 
 ## Frequently seen acronyms
 - SPA - Single Page Application
@@ -26,3 +26,4 @@ Sam Newman - Building microservices : building Fine-Grained systems
 - SOAP - Single Object Access Protocol
 - SLA - Service Level Commitment
 - SDI - Service Dependency Inversion
+- SSI - Server Side Includes
